@@ -38,5 +38,5 @@ Feito com ❤️ por Victor Barbosa e colaboradores 👋🏽 Entre em contato!
 <br>
 
 <p align="center">
-  <img width="100%" src="assets/gifghibli.gif">
+  <img width="100%" src="imagens/freeway.mp4">
 </p>
