@@ -37,6 +37,8 @@ Feito com ❤️ por Victor Barbosa e colaboradores 👋🏽 Entre em contato!
 
 <br>
 
+https://github.com/victorb-s/Alura-Jogo-Freeway/blob/cb0caf0e44fb823d94167014c03925afba82bcec/imagens/freeway.mp4
+
 <p align="center">
   <img width="100%" src="imagens/freeway.mp4">
 </p>
